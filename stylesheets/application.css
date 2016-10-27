@@ -3654,9 +3654,10 @@ tbody.collapse.in {
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: white;
+  color: #000;
 }
 .jumbotron p {
+  color: #000;
   margin-bottom: 15px;
   font-size: 20px;
   font-weight: 200;
@@ -3694,7 +3695,7 @@ tbody.collapse.in {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  width: 250px;
+  width: 450px;
   height: auto;
   margin-top: 50px;
   margin-bottom: 20px;
